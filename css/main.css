@@ -1,0 +1,209 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #050021;
+  color: #dadce5;
+  line-height: 1.6;
+  max-width: 100%;
+  font-size: 20px;
+}
+
+header {
+background-color: #000211;
+}
+
+main {
+  background-color: #000211;
+}
+
+footer {
+ font-size: 10px;
+}
+
+nav {
+
+}
+div {
+  text-align: center;
+}
+ div.heading{
+   background-color: #041c44;
+ }
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  text-align: left;
+margin: 0;
+font-family: 'Oswald', sans-serif;
+color: #dadce5;
+font-size: 40px;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+   border-collapse: collapse;
+   border-spacing: 0;
+   padding: 0; margin: 0;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+span.directions {
+ align-content: left;
+}
+
+span.Heading {
+  color: grey;
+}
+span.heading-2 {
+  font-size: 30px;
+  padding: 10px;
+}
+/*** image styles ***/
+
+img  {
+max-width: 100%;
+border: 0;
+margin: 0;
+padding: 0;
+display: block;
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+/* Custom Odin Overrides */
+
+.navbar {
+      background-color: #0e3067;
+    }
+
+    .navbar-brand {
+      color:  #020c;
+    }
+
+    .navbar-brand a:link,
+    .navbar-brand a:visited {
+
+    }
+
+    .navbar-brand a:hover,
+    .navbar-brand a:active {
+
+    }
+
+    .navbar-menu a:link,
+    .navbar-menu a:visited {
+      color: #dadce5;
+    }
+
+    .navbar-menu a:hover,
+    .navbar-menu a:active {
+
+    }
+
+    .navbar-menu.menu-shown {
+      background-color: #020c1c;
+    }
+
+    .menu-toggle {
+      color: #fff;
+    }
+
+    .menu-dismiss {
+      color: #fff;
+    }
+
+    .menu-shown a:link,
+    .menu-shown a:visited {
+      color: #2279FB;
+    }
+
+    .menu-shown a:active,
+    .menu-shown a:hover {
+
+    }
